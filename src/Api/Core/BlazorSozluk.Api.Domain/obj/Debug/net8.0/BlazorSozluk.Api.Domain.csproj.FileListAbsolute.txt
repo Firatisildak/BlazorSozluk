@@ -1,0 +1,16 @@
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net8.0\BlazorSozluk.Api.Domain.deps.json
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net8.0\BlazorSozluk.Api.Domain.dll
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net8.0\BlazorSozluk.Api.Domain.pdb
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net8.0\BlazorSozluk.Common.dll
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net8.0\BlazorSozluk.Common.pdb
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.csproj.AssemblyReference.cache
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.AssemblyInfo.cs
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.sourcelink.json
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSo.1843A97C.Up2Date
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.dll
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\refint\BlazorSozluk.Api.Domain.dll
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.pdb
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\ref\BlazorSozluk.Api.Domain.dll
