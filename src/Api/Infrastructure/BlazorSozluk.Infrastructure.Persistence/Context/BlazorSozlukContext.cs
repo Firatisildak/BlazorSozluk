@@ -8,6 +8,11 @@ public class BlazorSozlukContext : DbContext
 {
     public const string DEFAULT_SCHEMA = "dbo";
 
+    public BlazorSozlukContext()
+    {
+
+    }
+
     public BlazorSozlukContext(DbContextOptions options) : base(options)
     {
     }
@@ -20,6 +25,18 @@ public class BlazorSozlukContext : DbContext
     public DbSet<EntryCommentVote> EntryCommentVotes { get; set; }
     public DbSet<EntryCommentFavorite> EntryCommentFavorites { get; set; }
     public DbSet<EmailConfirmation> EmailConfirmations { get; set; }
+
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        if (!optionsBuilder.IsConfigured)
+        {
+            var connStr = "Data Source=.;Initial Catalog=blazorsozluk;User ID=sa;Password=sa;Trust Server Certificate=True;";
+            optionsBuilder.UseSqlServer(connStr, opt =>
+            {
+                opt.EnableRetryOnFailure();
+            });
+        }
+    }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
