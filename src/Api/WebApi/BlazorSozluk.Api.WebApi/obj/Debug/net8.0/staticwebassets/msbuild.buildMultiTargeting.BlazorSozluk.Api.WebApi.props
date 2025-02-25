@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorSozluk.Api.WebApi.props" />
+</Project>
