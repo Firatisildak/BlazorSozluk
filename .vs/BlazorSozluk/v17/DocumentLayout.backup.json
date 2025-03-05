@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A1F75CD-D409-47A5-99F8-D3554CEFA895}|src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\infrastructure\\blazorsozluk.infrastructure.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1F75CD-D409-47A5-99F8-D3554CEFA895}|src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastructure\\blazorsozluk.infrastructure.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\webapi\\blazorsozluk.api.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|solutionrelative:src\\api\\webapi\\blazorsozluk.api.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1F75CD-D409-47A5-99F8-D3554CEFA895}|src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\infrastructure\\blazorsozluk.infrastructure.persistence\\repositories\\entryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1F75CD-D409-47A5-99F8-D3554CEFA895}|src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastructure\\blazorsozluk.infrastructure.persistence\\repositories\\entryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\webapi\\blazorsozluk.api.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|solutionrelative:src\\api\\webapi\\blazorsozluk.api.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1F75CD-D409-47A5-99F8-D3554CEFA895}|src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\infrastructure\\blazorsozluk.infrastructure.persistence\\repositories\\entrycommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1F75CD-D409-47A5-99F8-D3554CEFA895}|src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastructure\\blazorsozluk.infrastructure.persistence\\repositories\\entrycommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A1F75CD-D409-47A5-99F8-D3554CEFA895}|src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\infrastructure\\blazorsozluk.infrastructure.persistence\\repositories\\emailconfirmationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1F75CD-D409-47A5-99F8-D3554CEFA895}|src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastructure\\blazorsozluk.infrastructure.persistence\\repositories\\emailconfirmationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A1F75CD-D409-47A5-99F8-D3554CEFA895}|src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\infrastructure\\blazorsozluk.infrastructure.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1F75CD-D409-47A5-99F8-D3554CEFA895}|src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastructure\\blazorsozluk.infrastructure.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\interfaces\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\interfaces\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\interfaces\\repositories\\ientrycommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\interfaces\\repositories\\ientrycommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\interfaces\\repositories\\iemailconfirmationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\interfaces\\repositories\\iemailconfirmationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A1F75CD-D409-47A5-99F8-D3554CEFA895}|src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\infrastructure\\blazorsozluk.infrastructure.persistence\\extensions\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1F75CD-D409-47A5-99F8-D3554CEFA895}|src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastructure\\blazorsozluk.infrastructure.persistence\\extensions\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\extensions\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\extensions\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T11:01:54.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EntryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\EntryRepository.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\EntryRepository.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\EntryRepository.cs",
-              "RelativeToolTip": "src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\EntryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T07:41:34.483Z",
+              "WhenOpened": "2025-03-05T10:49:41.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EntryCommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\EntryCommentRepository.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\EntryCommentRepository.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\EntryCommentRepository.cs",
-              "RelativeToolTip": "src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\EntryCommentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T07:40:44.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmailConfirmationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\EmailConfirmationRepository.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\EmailConfirmationRepository.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\EmailConfirmationRepository.cs",
-              "RelativeToolTip": "src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\EmailConfirmationRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T07:38:28.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
-              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:41:03.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T11:58:03.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAAHcAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:35:46.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IEntryCommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Interfaces\\Repositories\\IEntryCommentRepository.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Interfaces\\Repositories\\IEntryCommentRepository.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Interfaces\\Repositories\\IEntryCommentRepository.cs",
-              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Interfaces\\Repositories\\IEntryCommentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T07:29:21.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IEmailConfirmationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Interfaces\\Repositories\\IEmailConfirmationRepository.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Interfaces\\Repositories\\IEmailConfirmationRepository.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Interfaces\\Repositories\\IEmailConfirmationRepository.cs",
-              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Interfaces\\Repositories\\IEmailConfirmationRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T07:28:30.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Registration.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Extensions\\Registration.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Extensions\\Registration.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Extensions\\Registration.cs",
-              "RelativeToolTip": "src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Extensions\\Registration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Extensions\\Registration.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Extensions\\Registration.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Extensions\\Registration.cs",
+              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Extensions\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T11:59:42.554Z",
+              "WhenOpened": "2025-03-05T10:43:51.432Z",
               "EditorCaption": ""
             }
           ]

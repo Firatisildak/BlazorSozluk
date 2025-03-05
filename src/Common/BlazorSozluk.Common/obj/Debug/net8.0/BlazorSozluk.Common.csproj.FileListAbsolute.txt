@@ -10,3 +10,4 @@ C:\Users\Geotek\source\repos\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Deb
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net8.0\refint\BlazorSozluk.Common.dll
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net8.0\BlazorSozluk.Common.pdb
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net8.0\ref\BlazorSozluk.Common.dll
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net8.0\BlazorSozluk.Common.csproj.AssemblyReference.cache

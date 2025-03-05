@@ -3,8 +3,7 @@ using BlazorSozluk.Api.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 
-namespace BlazorSozluk.Infrastructure.Persistence.Repositories;
-
+namespace BlazorSozluk.Api.Infrastructure.Persistence.Repositories;
 public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEntity : BaseEntity
 {
     private readonly DbContext dbContext;

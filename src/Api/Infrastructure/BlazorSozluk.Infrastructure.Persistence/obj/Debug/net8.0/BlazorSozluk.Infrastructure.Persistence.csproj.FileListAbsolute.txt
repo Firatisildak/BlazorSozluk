@@ -18,3 +18,5 @@ C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Infrastructure\BlazorSozluk.In
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Infrastructure\BlazorSozluk.Infrastructure.Persistence\obj\Debug\net8.0\BlazorSozluk.Infrastructure.Persistence.pdb
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Infrastructure\BlazorSozluk.Infrastructure.Persistence\obj\Debug\net8.0\BlazorSozluk.Infrastructure.Persistence.genruntimeconfig.cache
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Infrastructure\BlazorSozluk.Infrastructure.Persistence\obj\Debug\net8.0\ref\BlazorSozluk.Infrastructure.Persistence.dll
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Infrastructure\BlazorSozluk.Infrastructure.Persistence\bin\Debug\net8.0\BlazorSozluk.Api.Application.dll
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\Infrastructure\BlazorSozluk.Infrastructure.Persistence\bin\Debug\net8.0\BlazorSozluk.Api.Application.pdb
