@@ -1,18 +1,18 @@
-﻿using BlazorSozluk.Api.Domain.Models;
-using BlazorSozluk.Api.Application.Interfaces.Repositories;
-using System.Linq.Expressions;
-using BlazorSozluk.Infrastructure.Persistence.Context;
+﻿using BlazorSozluk.Api.Application.Interfaces.Repositories;
+using BlazorSozluk.Api.Domain.Models;
 using Microsoft.EntityFrameworkCore;
-using System.Linq;
+using System.Linq.Expressions;
 
 namespace BlazorSozluk.Infrastructure.Persistence.Repositories;
 
 public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEntity : BaseEntity
 {
-    private readonly BlazorSozlukContext dbContext;
+    private readonly DbContext dbContext;
+
+
     protected DbSet<TEntity> entity => dbContext.Set<TEntity>();
 
-    public GenericRepository(BlazorSozlukContext dbContext)
+    public GenericRepository(DbContext dbContext)
     {
         this.dbContext = dbContext ?? throw new ArgumentNullException(nameof(dbContext));
     }
@@ -31,20 +31,37 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
         return dbContext.SaveChanges();
     }
 
-    public virtual int Add(IEnumerable<TEntity> entities)
-    {
-        throw new NotImplementedException();
-    }
-
     public virtual async Task<int> AddAsync(IEnumerable<TEntity> entities)
     {
-        throw new NotImplementedException();
+        if (entities != null && !entities.Any())
+            return 0;
+
+        await entity.AddRangeAsync(entities);
+        return await dbContext.SaveChangesAsync();
     }
+
+    public virtual int Add(IEnumerable<TEntity> entities)
+    {
+        if (entities != null && !entities.Any())
+            return 0;
+
+        entity.AddRange(entity);
+        return dbContext.SaveChanges();
+    }
+
     #endregion
 
     #region Update Methods
 
-    public int Update(TEntity entity)
+    public virtual async Task<int> UpdateAsync(TEntity entity)
+    {
+        this.entity.Attach(entity);
+        dbContext.Entry(entity).State = EntityState.Modified;
+
+        return await dbContext.SaveChangesAsync();
+    }
+
+    public virtual int Update(TEntity entity)
     {
         this.entity.Attach(entity);
         dbContext.Entry(entity).State = EntityState.Modified;
@@ -52,37 +69,17 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
         return dbContext.SaveChanges();
     }
 
-    public virtual async Task<int> UpdateAsync(TEntity entity)
-    {
-        throw new NotImplementedException();
-    }
-
     #endregion
 
     #region Delete Methods
 
-    public virtual int Delete(TEntity entity)
+    public virtual Task<int> DeleteAsync(TEntity entity)
     {
         if (dbContext.Entry(entity).State == EntityState.Detached)
         {
             this.entity.Attach(entity);
         }
-        this.entity.Remove(entity);
 
-        return dbContext.SaveChanges();
-    }
-
-    public virtual int Delete(Guid id)
-    {
-        throw new NotImplementedException();
-    }
-
-    public virtual Task<int> DeleteAsync(TEntity entity)
-    {
-        if(dbContext.Entry(entity).State == EntityState.Detached)
-        {
-            this.entity.Attach(entity);
-        }
         this.entity.Remove(entity);
 
         return dbContext.SaveChangesAsync();
@@ -94,22 +91,48 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
         return DeleteAsync(entity);
     }
 
+    public virtual int Delete(Guid id)
+    {
+        var entity = this.entity.Find(id);
+        return Delete(entity);
+    }
+
+    public virtual int Delete(TEntity entity)
+    {
+        if (dbContext.Entry(entity).State == EntityState.Detached)
+        {
+            this.entity.Attach(entity);
+        }
+
+        this.entity.Remove(entity);
+
+        return dbContext.SaveChanges();
+    }
+
     public virtual bool DeleteRange(Expression<Func<TEntity, bool>> predicate)
     {
-        dbContext.RemoveRange(predicate);
+        dbContext.RemoveRange(entity.Where(predicate));
         return dbContext.SaveChanges() > 0;
     }
 
     public virtual async Task<bool> DeleteRangeAsync(Expression<Func<TEntity, bool>> predicate)
     {
-        dbContext.RemoveRange(predicate);
+        dbContext.RemoveRange(entity.Where(predicate));
         return await dbContext.SaveChangesAsync() > 0;
     }
 
     #endregion
 
-
     #region AddOrUpdate Methods
+
+    public virtual Task<int> AddOrUpdateAsync(TEntity entity)
+    {
+        // check the entity with the id already tracked
+        if (!this.entity.Local.Any(i => EqualityComparer<Guid>.Default.Equals(i.Id, entity.Id)))
+            dbContext.Update(entity);
+
+        return dbContext.SaveChangesAsync();
+    }
 
     public virtual int AddOrUpdate(TEntity entity)
     {
@@ -119,57 +142,47 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
         return dbContext.SaveChanges();
     }
 
-    public virtual Task<int> AddOrUpdateAsync(TEntity entity)
-    {
-        if(!this.entity.Local.Any(i => EqualityComparer<Guid>.Default.Equals(i.Id, entity.Id)))
-            dbContext.Update(entity);
-
-        return dbContext.SaveChangesAsync();
-    }
-
     #endregion
-
 
     #region Get Methods
 
     public virtual IQueryable<TEntity> AsQueryable() => entity.AsQueryable();
-
     public virtual IQueryable<TEntity> Get(Expression<Func<TEntity, bool>> predicate, bool noTracking = true, params Expression<Func<TEntity, object>>[] includes)
     {
         var query = entity.AsQueryable();
 
-        if(predicate != null)
+        if (predicate != null)
             query = query.Where(predicate);
 
         query = ApplyIncludes(query, includes);
 
-        if(noTracking)
+        if (noTracking)
             query = query.AsNoTracking();
 
         return query;
-
     }
+
 
     public virtual Task<TEntity> FirstOrDefaultAsync(Expression<Func<TEntity, bool>> predicate, bool noTracking = true, params Expression<Func<TEntity, object>>[] includes)
     {
-        throw new NotImplementedException();
+        return Get(predicate, noTracking, includes).FirstOrDefaultAsync();
     }
 
     public virtual async Task<List<TEntity>> GetList(Expression<Func<TEntity, bool>> predicate, bool noTracking = true, Func<IQueryable<TEntity>, IOrderedQueryable<TEntity>> orderBy = null, params Expression<Func<TEntity, object>>[] includes)
     {
         IQueryable<TEntity> query = entity;
 
-        if(predicate != null)
+        if (predicate != null)
         {
             query = query.Where(predicate);
         }
 
-        foreach(Expression<Func<TEntity, object>> include in includes)
+        foreach (Expression<Func<TEntity, object>> include in includes)
         {
             query = query.Include(include);
         }
 
-        if(orderBy != null)
+        if (orderBy != null)
         {
             query = orderBy(query);
         }
@@ -182,7 +195,10 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
 
     public virtual async Task<List<TEntity>> GetAll(bool noTracking = true)
     {
-        throw new NotImplementedException();
+        if (noTracking)
+            return await entity.AsNoTracking().ToListAsync();
+
+        return await entity.ToListAsync();
     }
 
     public virtual async Task<TEntity> GetByIdAsync(Guid id, bool noTracking = true, params Expression<Func<TEntity, object>>[] includes)
@@ -192,10 +208,10 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
         if (found == null)
             return null;
 
-        if(noTracking)
+        if (noTracking)
             dbContext.Entry(found).State = EntityState.Detached;
 
-        foreach(Expression<Func<TEntity,object>> include in includes)
+        foreach (Expression<Func<TEntity, object>> include in includes)
         {
             dbContext.Entry(found).Reference(include).Load();
         }
@@ -205,22 +221,23 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
 
     public virtual async Task<TEntity> GetSingleAsync(Expression<Func<TEntity, bool>> predicate, bool noTracking = true, params Expression<Func<TEntity, object>>[] includes)
     {
-       IQueryable<TEntity> query = entity;
-        if(predicate != null)
+        IQueryable<TEntity> query = entity;
+
+        if (predicate != null)
         {
             query = query.Where(predicate);
         }
 
-        query.ApplyIncludes(query, includes);
+        query = ApplyIncludes(query, includes);
 
-        if(noTracking)
+        if (noTracking)
             query = query.AsNoTracking();
 
         return await query.SingleOrDefaultAsync();
+
     }
 
     #endregion
-
 
     #region Bulk Methods
 
@@ -235,30 +252,43 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
 
     public virtual Task BulkDelete(Expression<Func<TEntity, bool>> predicate)
     {
-        throw new NotImplementedException();
+        dbContext.RemoveRange(entity.Where(predicate));
+        return dbContext.SaveChangesAsync();
     }
 
     public virtual Task BulkDelete(IEnumerable<TEntity> entities)
     {
-        throw new NotImplementedException();
+        if (entities != null && !entities.Any())
+            return Task.CompletedTask;
+
+        entity.RemoveRange(entities);
+        return dbContext.SaveChangesAsync();
     }
 
     public virtual Task BulkUpdate(IEnumerable<TEntity> entities)
     {
-        throw new NotImplementedException();
+        if (entities != null && !entities.Any())
+            return Task.CompletedTask;
+
+        foreach (var entityItem in entities)
+        {
+            entity.Update(entityItem);
+        }
+
+        return dbContext.SaveChangesAsync();
     }
 
     public virtual async Task BulkAdd(IEnumerable<TEntity> entities)
     {
         if (entities != null && !entities.Any())
             await Task.CompletedTask;
-       await entity.AddRangeAsync(entities);
+
+        await entity.AddRangeAsync(entities);
 
         await dbContext.SaveChangesAsync();
     }
 
     #endregion
-
 
     #region SaveChanges Methods
 
@@ -277,9 +307,9 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
 
     private static IQueryable<TEntity> ApplyIncludes(IQueryable<TEntity> query, params Expression<Func<TEntity, object>>[] includes)
     {
-        if(includes != null)
+        if (includes != null)
         {
-            foreach(var includeItem in includes)
+            foreach (var includeItem in includes)
             {
                 query = query.Include(includeItem);
             }
