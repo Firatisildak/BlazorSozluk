@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bR2Noxm9/O8=",
+  "dgSpecHash": "2TdCe5aK84Y=",
   "success": true,
   "projectFilePath": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj",
   "expectedPackageFiles": [
@@ -19,7 +19,10 @@
     "C:\\Users\\Geotek\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.6.0\\microsoft.identitymodel.jsonwebtokens.8.6.0.nupkg.sha512",
     "C:\\Users\\Geotek\\.nuget\\packages\\microsoft.identitymodel.logging\\8.6.0\\microsoft.identitymodel.logging.8.6.0.nupkg.sha512",
     "C:\\Users\\Geotek\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.6.0\\microsoft.identitymodel.tokens.8.6.0.nupkg.sha512",
-    "C:\\Users\\Geotek\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.6.0\\system.identitymodel.tokens.jwt.8.6.0.nupkg.sha512"
+    "C:\\Users\\Geotek\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\Geotek\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.6.0\\system.identitymodel.tokens.jwt.8.6.0.nupkg.sha512",
+    "C:\\Users\\Geotek\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Geotek\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

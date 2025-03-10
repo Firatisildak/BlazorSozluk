@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorSozluk.Infrastructure.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a060612bcca5d3ca17f066b2f2e5627acbac7f5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+730b77f0f9e62ba29e5518d92c00f158a515b5b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorSozluk.Infrastructure.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorSozluk.Infrastructure.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
