@@ -105,3 +105,4 @@ C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net8.0\BlazorSozluk.Api.Application.dll
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net8.0\BlazorSozluk.Api.Application.pdb
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net8.0\RabbitMQ.Client.dll

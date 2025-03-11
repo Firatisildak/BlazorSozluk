@@ -3,72 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\features\\commands\\user\\changepassword\\changeuserpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\features\\commands\\user\\changepassword\\changeuserpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\webapi\\blazorsozluk.api.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|solutionrelative:src\\api\\webapi\\blazorsozluk.api.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\features\\commands\\user\\update\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\features\\commands\\user\\update\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\webapi\\blazorsozluk.api.webapi\\controllers\\entrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|solutionrelative:src\\api\\webapi\\blazorsozluk.api.webapi\\controllers\\entrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\webapi\\blazorsozluk.api.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|solutionrelative:src\\api\\webapi\\blazorsozluk.api.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\common\\blazorsozluk.common\\events\\user\\changeuserpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|solutionrelative:src\\common\\blazorsozluk.common\\events\\user\\changeuserpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entry\\deletevote\\deleteentryvotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entry\\deletevote\\deleteentryvotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\common\\blazorsozluk.common\\sozlukconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|solutionrelative:src\\common\\blazorsozluk.common\\sozlukconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entry\\deletefav\\deleteentryfavcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entry\\deletefav\\deleteentryfavcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\common\\blazorsozluk.common\\infrastructure\\queuefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|solutionrelative:src\\common\\blazorsozluk.common\\infrastructure\\queuefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entry\\createvote\\createentryvotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entry\\createvote\\createentryvotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\features\\commands\\user\\create\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\features\\commands\\user\\create\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entry\\createfav\\createentryfavcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entry\\createfav\\createentryfavcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\common\\blazorsozluk.common\\events\\user\\useremailchangedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|solutionrelative:src\\common\\blazorsozluk.common\\events\\user\\useremailchangedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entrycomment\\createfav\\createentrycommentfavcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entrycomment\\createfav\\createentrycommentfavcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entrycomment\\deletevote\\deleteentrycommentvotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entrycomment\\deletevote\\deleteentrycommentvotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entrycomment\\deletefav\\deleteentrycommentfavcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entrycomment\\deletefav\\deleteentrycommentfavcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entrycomment\\createvote\\createentrycommentvotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\features\\commands\\entrycomment\\createvote\\createentrycommentvotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\common\\blazorsozluk.common\\models\\requestmodels\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|solutionrelative:src\\common\\blazorsozluk.common\\models\\requestmodels\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\common\\blazorsozluk.common\\models\\requestmodels\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|solutionrelative:src\\common\\blazorsozluk.common\\models\\requestmodels\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\common\\blazorsozluk.common\\models\\requestmodels\\createentryvotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|solutionrelative:src\\common\\blazorsozluk.common\\models\\requestmodels\\createentryvotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\common\\blazorsozluk.common\\models\\requestmodels\\createentrycommentvotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|solutionrelative:src\\common\\blazorsozluk.common\\models\\requestmodels\\createentrycommentvotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\common\\blazorsozluk.common\\models\\requestmodels\\createentrycommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|solutionrelative:src\\common\\blazorsozluk.common\\models\\requestmodels\\createentrycommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\common\\blazorsozluk.common\\models\\requestmodels\\createentrycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C7BA38-8EB5-4B3B-8C94-D0295ED2E0F7}|src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj|solutionrelative:src\\common\\blazorsozluk.common\\models\\requestmodels\\createentrycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\features\\commands\\user\\confirmemail\\confirmemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\features\\commands\\user\\confirmemail\\confirmemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\extensions\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\extensions\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,8 +58,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntryController.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\EntryController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\EntryController.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\EntryController.cs",
+              "RelativeToolTip": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\EntryController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:46:25.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:45:16.731Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -88,217 +94,126 @@
               "RelativeDocumentMoniker": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\UserController.cs",
               "RelativeToolTip": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:43:31.8Z",
+              "WhenOpened": "2025-03-11T14:43:41.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ChangeUserPasswordCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Events\\User\\ChangeUserPasswordCommand.cs",
-              "RelativeDocumentMoniker": "src\\Common\\BlazorSozluk.Common\\Events\\User\\ChangeUserPasswordCommand.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Events\\User\\ChangeUserPasswordCommand.cs",
-              "RelativeToolTip": "src\\Common\\BlazorSozluk.Common\\Events\\User\\ChangeUserPasswordCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "DeleteEntryVoteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\DeleteVote\\DeleteEntryVoteCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\DeleteVote\\DeleteEntryVoteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\DeleteVote\\DeleteEntryVoteCommandHandler.cs",
+              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\DeleteVote\\DeleteEntryVoteCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:36:05.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\Update\\UpdateUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\Update\\UpdateUserCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\Update\\UpdateUserCommandHandler.cs",
-              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\Update\\UpdateUserCommandHandler.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAwwCwAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:12:03.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChangeUserPasswordCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\ChangePassword\\ChangeUserPasswordCommandHandler.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\ChangePassword\\ChangeUserPasswordCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\ChangePassword\\ChangeUserPasswordCommandHandler.cs",
-              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\ChangePassword\\ChangeUserPasswordCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:07:01.161Z",
+              "WhenOpened": "2025-03-11T14:17:03.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SozlukConstants.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\SozlukConstants.cs",
-              "RelativeDocumentMoniker": "src\\Common\\BlazorSozluk.Common\\SozlukConstants.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\SozlukConstants.cs",
-              "RelativeToolTip": "src\\Common\\BlazorSozluk.Common\\SozlukConstants.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Title": "DeleteEntryFavCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\DeleteFav\\DeleteEntryFavCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\DeleteFav\\DeleteEntryFavCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\DeleteFav\\DeleteEntryFavCommandHandler.cs",
+              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\DeleteFav\\DeleteEntryFavCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:23:57.168Z",
+              "WhenOpened": "2025-03-11T14:16:52.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "QueueFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Infrastructure\\QueueFactory.cs",
-              "RelativeDocumentMoniker": "src\\Common\\BlazorSozluk.Common\\Infrastructure\\QueueFactory.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Infrastructure\\QueueFactory.cs",
-              "RelativeToolTip": "src\\Common\\BlazorSozluk.Common\\Infrastructure\\QueueFactory.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Title": "CreateEntryVoteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\CreateVote\\CreateEntryVoteCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\CreateVote\\CreateEntryVoteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\CreateVote\\CreateEntryVoteCommandHandler.cs",
+              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\CreateVote\\CreateEntryVoteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:17:43.104Z",
+              "WhenOpened": "2025-03-11T14:16:44.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CreateUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\Create\\CreateUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\Create\\CreateUserCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\Create\\CreateUserCommandHandler.cs",
-              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\Create\\CreateUserCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA/AAAAAAAAAA==",
+              "Title": "CreateEntryFavCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\CreateFav\\CreateEntryFavCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\CreateFav\\CreateEntryFavCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\CreateFav\\CreateEntryFavCommandHandler.cs",
+              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\Entry\\CreateFav\\CreateEntryFavCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:10:50.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserEmailChangedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Events\\User\\UserEmailChangedEvent.cs",
-              "RelativeDocumentMoniker": "src\\Common\\BlazorSozluk.Common\\Events\\User\\UserEmailChangedEvent.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Events\\User\\UserEmailChangedEvent.cs",
-              "RelativeToolTip": "src\\Common\\BlazorSozluk.Common\\Events\\User\\UserEmailChangedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:36:55.996Z",
+              "WhenOpened": "2025-03-11T14:16:33.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Title": "DeleteEntryCommentVoteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\DeleteVote\\DeleteEntryCommentVoteCommand.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\DeleteVote\\DeleteEntryCommentVoteCommand.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\DeleteVote\\DeleteEntryCommentVoteCommand.cs",
+              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\DeleteVote\\DeleteEntryCommentVoteCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:34:05.467Z",
+              "WhenOpened": "2025-03-11T14:16:01.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UpdateUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\UpdateUserCommand.cs",
-              "RelativeDocumentMoniker": "src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\UpdateUserCommand.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\UpdateUserCommand.cs",
-              "RelativeToolTip": "src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\UpdateUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "DeleteEntryCommentFavCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\DeleteFav\\DeleteEntryCommentFavCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\DeleteFav\\DeleteEntryCommentFavCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\DeleteFav\\DeleteEntryCommentFavCommandHandler.cs",
+              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\DeleteFav\\DeleteEntryCommentFavCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:23:52.85Z",
+              "WhenOpened": "2025-03-11T14:15:51.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateEntryCommentFavCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\CreateFav\\CreateEntryCommentFavCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\CreateFav\\CreateEntryCommentFavCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\CreateFav\\CreateEntryCommentFavCommandHandler.cs",
+              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\CreateFav\\CreateEntryCommentFavCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:15:39.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CreateUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateUserCommand.cs",
-              "RelativeDocumentMoniker": "src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateUserCommand.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateUserCommand.cs",
-              "RelativeToolTip": "src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Title": "CreateEntryCommentVoteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\CreateVote\\CreateEntryCommentVoteCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\CreateVote\\CreateEntryCommentVoteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\CreateVote\\CreateEntryCommentVoteCommandHandler.cs",
+              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\EntryComment\\CreateVote\\CreateEntryCommentVoteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:22:23.732Z",
+              "WhenOpened": "2025-03-11T14:15:22.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "CreateEntryVoteCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryVoteCommand.cs",
-              "RelativeDocumentMoniker": "src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryVoteCommand.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryVoteCommand.cs",
-              "RelativeToolTip": "src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryVoteCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:21:04.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateEntryCommentVoteCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryCommentVoteCommand.cs",
-              "RelativeDocumentMoniker": "src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryCommentVoteCommand.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryCommentVoteCommand.cs",
-              "RelativeToolTip": "src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryCommentVoteCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:18:55.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateEntryCommentCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryCommentCommand.cs",
-              "RelativeDocumentMoniker": "src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryCommentCommand.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryCommentCommand.cs",
-              "RelativeToolTip": "src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryCommentCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:18:13.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CreateEntryCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryCommand.cs",
-              "RelativeDocumentMoniker": "src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryCommand.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryCommand.cs",
-              "RelativeToolTip": "src\\Common\\BlazorSozluk.Common\\Models\\RequestModels\\CreateEntryCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:16:54.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ConfirmEmailCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\ConfirmEmail\\ConfirmEmailCommand.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\ConfirmEmail\\ConfirmEmailCommand.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\ConfirmEmail\\ConfirmEmailCommand.cs",
-              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Commands\\User\\ConfirmEmail\\ConfirmEmailCommand.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:09:41.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Registration.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Extensions\\Registration.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Extensions\\Registration.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Extensions\\Registration.cs",
-              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Extensions\\Registration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:43:51.432Z",
+              "WhenOpened": "2025-03-11T14:12:32.473Z",
               "EditorCaption": ""
             }
           ]

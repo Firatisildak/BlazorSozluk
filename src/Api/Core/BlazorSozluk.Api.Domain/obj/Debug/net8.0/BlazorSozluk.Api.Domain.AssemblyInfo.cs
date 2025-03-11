@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorSozluk.Api.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+730b77f0f9e62ba29e5518d92c00f158a515b5b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03e9aea3b61236cddd478626b4c63196dc72a9f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorSozluk.Api.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorSozluk.Api.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
