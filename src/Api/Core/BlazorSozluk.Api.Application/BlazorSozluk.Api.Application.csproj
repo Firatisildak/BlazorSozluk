@@ -21,7 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Features\Queries\" />
+    <Folder Include="Features\Queries\GetUserEntries\" />
+    <Folder Include="Features\Queries\SearchBySubject\" />
   </ItemGroup>
 
 </Project>
