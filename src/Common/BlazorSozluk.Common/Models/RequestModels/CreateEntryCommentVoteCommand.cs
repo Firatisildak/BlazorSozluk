@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using BlazorSozluk.Common.ViewModels;
+using MediatR;
 
 namespace BlazorSozluk.Common.Models.RequestModels;
 

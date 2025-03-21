@@ -1,4 +1,4 @@
-﻿using BlazorSozluk.Common.Models;
+﻿using BlazorSozluk.Common.ViewModels;
 
 namespace BlazorSozluk.Api.Domain.Models;
 
@@ -10,4 +10,3 @@ public class EntryCommentVote : BaseEntity
 
     public virtual EntryComment EntryComment { get; set; }
 }
- 

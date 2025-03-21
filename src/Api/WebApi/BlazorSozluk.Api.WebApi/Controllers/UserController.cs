@@ -1,4 +1,5 @@
 ﻿using BlazorSozluk.Api.Application.Features.Commands.User.ConfirmEmail;
+using BlazorSozluk.Api.Application.Features.Queries.GetUserDetail;
 using BlazorSozluk.Api.Domain.Models;
 using BlazorSozluk.Common.Events.User;
 using BlazorSozluk.Common.Models.RequestModels;

@@ -1,4 +1,4 @@
-﻿namespace BlazorSozluk.Common.Models;
+﻿namespace BlazorSozluk.Common.ViewModels;
 
 public enum VoteType
 {

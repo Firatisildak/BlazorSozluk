@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorSozluk.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03e9aea3b61236cddd478626b4c63196dc72a9f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a802468a046d8e8d2a85331bba4f7c80f41ec0d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorSozluk.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorSozluk.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using BlazorSozluk.Common.Models.Queries;
+using MediatR;
 
 namespace BlazorSozluk.Api.Application.Features.Queries.GetUserDetail;
 

@@ -1020,9 +1020,6 @@ C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Web
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\eoccvz3v2b-tptq2av103.gz
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\st2yr8wqpi-lfu7j35m59.gz
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\pmse7bk01w-oyz0vx2fzb.gz
-C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\ue7zb92zi6-05tvvq0lzx.gz
-C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\ft04ghe42s-h345fagllb.gz
-C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\8wxhzo7lmo-60prlo4k45.gz
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -1038,3 +1035,6 @@ C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Web
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\refint\BlazorSozluk.WebApp.dll
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\BlazorSozluk.WebApp.pdb
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\ref\BlazorSozluk.WebApp.dll
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\ue7zb92zi6-trw3m5sgwo.gz
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\ft04ghe42s-bcpjoe8bpz.gz
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\8wxhzo7lmo-2dqy8tpqk3.gz

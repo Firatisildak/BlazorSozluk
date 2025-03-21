@@ -1,5 +1,168 @@
 [
   {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.EntryController",
+    "Method": "GetEntries",
+    "RelativePath": "api/Entry",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TodaysEntries",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Count",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.EntryController",
+    "Method": "GetById",
+    "RelativePath": "api/Entry/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.EntryController",
+    "Method": "GetEntryComments",
+    "RelativePath": "api/Entry/Comments/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.EntryController",
+    "Method": "CreateEntry",
+    "RelativePath": "api/Entry/CreateEntry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "BlazorSozluk.Common.Models.RequestModels.CreateEntryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.EntryController",
+    "Method": "CreateEntryComment",
+    "RelativePath": "api/Entry/CreateEntryComment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "BlazorSozluk.Common.Models.RequestModels.CreateEntryCommentCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.EntryController",
+    "Method": "GetMainPageEntries",
+    "RelativePath": "api/Entry/MainPageEntries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.EntryController",
+    "Method": "Search",
+    "RelativePath": "api/Entry/Search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SearchText",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.EntryController",
+    "Method": "GetUserEntries",
+    "RelativePath": "api/Entry/UserEntries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.UserController",
     "Method": "Create",
     "RelativePath": "api/User",
@@ -11,6 +174,54 @@
         "Name": "command",
         "Type": "BlazorSozluk.Common.Models.RequestModels.CreateUserCommand",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.UserController",
+    "Method": "Get",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.UserController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/User/ChangePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "BlazorSozluk.Common.Events.User.ChangeUserPasswordCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.UserController",
+    "Method": "ConfirmEMail",
+    "RelativePath": "api/User/Confirm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -42,6 +253,22 @@
       {
         "Name": "command",
         "Type": "BlazorSozluk.Common.Models.RequestModels.UpdateUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.UserController",
+    "Method": "GetByUserName",
+    "RelativePath": "api/User/UserName/{userName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],

@@ -1,5 +1,9 @@
 ﻿using BlazorSozluk.Api.Application.Interfaces.Repositories;
+using BlazorSozluk.Common.Infrastructure.Extensions;
+using BlazorSozluk.Common.Models.Page;
+using BlazorSozluk.Common.Models.Queries;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
 
 namespace BlazorSozluk.Api.Application.Features.Queries.GetMainPageEntries;
 
