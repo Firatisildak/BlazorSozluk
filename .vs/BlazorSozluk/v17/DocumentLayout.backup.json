@@ -1,12 +1,121 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\webapi\\blazorsozluk.api.webapi\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|solutionrelative:src\\api\\webapi\\blazorsozluk.api.webapi\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\webapi\\blazorsozluk.api.webapi\\controllers\\entrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|solutionrelative:src\\api\\webapi\\blazorsozluk.api.webapi\\controllers\\entrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\features\\queries\\searchbysubject\\searchentryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\features\\queries\\searchbysubject\\searchentryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\core\\blazorsozluk.api.application\\features\\queries\\getuserdetail\\getuserdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A41777-B0A4-44A2-9464-8211CB2BFEA1}|src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj|solutionrelative:src\\api\\core\\blazorsozluk.api.application\\features\\queries\\getuserdetail\\getuserdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1F75CD-D409-47A5-99F8-D3554CEFA895}|src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\infrastructure\\blazorsozluk.infrastructure.persistence\\context\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1F75CD-D409-47A5-99F8-D3554CEFA895}|src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastructure\\blazorsozluk.infrastructure.persistence\\context\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|c:\\users\\geotek\\source\\repos\\blazorsozluk\\src\\api\\webapi\\blazorsozluk.api.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D045A5B-20C0-4F87-B394-10528473E1E3}|src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj|solutionrelative:src\\api\\webapi\\blazorsozluk.api.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoteController.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\VoteController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\VoteController.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\VoteController.cs",
+              "RelativeToolTip": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\VoteController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:53:17.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntryController.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\EntryController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\EntryController.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\EntryController.cs",
+              "RelativeToolTip": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\EntryController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAD4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:34:01.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchEntryQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Queries\\SearchBySubject\\SearchEntryQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Queries\\SearchBySubject\\SearchEntryQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Queries\\SearchBySubject\\SearchEntryQueryHandler.cs",
+              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Queries\\SearchBySubject\\SearchEntryQueryHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:29:15.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUserDetailQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Queries\\GetUserDetail\\GetUserDetailQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Queries\\GetUserDetail\\GetUserDetailQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Queries\\GetUserDetail\\GetUserDetailQueryHandler.cs",
+              "RelativeToolTip": "src\\Api\\Core\\BlazorSozluk.Api.Application\\Features\\Queries\\GetUserDetail\\GetUserDetailQueryHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:17:51.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:12:29.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Context\\SeedData.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Context\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Context\\SeedData.cs",
+              "RelativeToolTip": "src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\Context\\SeedData.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:28:19.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
