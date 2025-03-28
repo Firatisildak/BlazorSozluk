@@ -445,6 +445,119 @@
         }
       }
     },
+    "/api/Vote/Entry/{entryId}": {
+      "post": {
+        "tags": [
+          "Vote"
+        ],
+        "parameters": [
+          {
+            "name": "entryId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          },
+          {
+            "name": "voteType",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/VoteType"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Vote/EntryComment/{entryCommentId}": {
+      "post": {
+        "tags": [
+          "Vote"
+        ],
+        "parameters": [
+          {
+            "name": "entryCommentId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          },
+          {
+            "name": "voteType",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/VoteType"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Vote/DeleteEntryVote/{entryId}": {
+      "post": {
+        "tags": [
+          "Vote"
+        ],
+        "parameters": [
+          {
+            "name": "entryId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Vote/DeleteEntryCommentVote/{entryId}": {
+      "post": {
+        "tags": [
+          "Vote"
+        ],
+        "parameters": [
+          {
+            "name": "entryCommentId",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          },
+          {
+            "name": "entryId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -610,6 +723,15 @@
           }
         },
         "additionalProperties": false
+      },
+      "VoteType": {
+        "enum": [
+          0,
+          1,
+          -1
+        ],
+        "type": "integer",
+        "format": "int32"
       },
       "WeatherForecast": {
         "type": "object",

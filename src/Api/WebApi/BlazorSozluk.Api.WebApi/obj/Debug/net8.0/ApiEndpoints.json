@@ -275,6 +275,85 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.VoteController",
+    "Method": "DeleteEntryCommentVote",
+    "RelativePath": "api/Vote/DeleteEntryCommentVote/{entryId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entryCommentId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "entryId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.VoteController",
+    "Method": "DeleteEntryVote",
+    "RelativePath": "api/Vote/DeleteEntryVote/{entryId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entryId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.VoteController",
+    "Method": "CreateEntryVote",
+    "RelativePath": "api/Vote/Entry/{entryId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entryId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "voteType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.VoteController",
+    "Method": "CreateEntryCommentVote",
+    "RelativePath": "api/Vote/EntryComment/{entryCommentId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entryCommentId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "voteType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BlazorSozluk.Api.WebApi.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
