@@ -7,8 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="8.0.12" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.11" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.11" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.Extensions.DependencyModel" Version="9.0.3" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="9.0.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\BlazorSozluk.Common\BlazorSozluk.Common.csproj" />
   </ItemGroup>
 
 </Project>

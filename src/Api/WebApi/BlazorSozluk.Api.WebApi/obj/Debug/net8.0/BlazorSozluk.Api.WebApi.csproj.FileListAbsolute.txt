@@ -106,3 +106,4 @@ C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net8.0\BlazorSozluk.Api.WebApi.pdb
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net8.0\BlazorSozluk.Api.WebApi.genruntimeconfig.cache
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net8.0\ref\BlazorSozluk.Api.WebApi.dll
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
