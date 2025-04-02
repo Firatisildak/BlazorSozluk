@@ -15,6 +15,7 @@ C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net8.0\MediatR.dll
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
@@ -106,4 +107,3 @@ C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net8.0\BlazorSozluk.Api.WebApi.pdb
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net8.0\BlazorSozluk.Api.WebApi.genruntimeconfig.cache
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net8.0\ref\BlazorSozluk.Api.WebApi.dll
-C:\Users\Geotek\source\repos\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

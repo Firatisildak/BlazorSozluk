@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\BlazorSozluk.WebApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

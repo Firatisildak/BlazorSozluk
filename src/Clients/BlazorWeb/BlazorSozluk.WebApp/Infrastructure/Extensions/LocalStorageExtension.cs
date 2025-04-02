@@ -1,4 +1,6 @@
-﻿namespace BlazorSozluk.WebApp.Infrastructure.Extensions;
+﻿using Blazored.LocalStorage;
+
+namespace BlazorSozluk.WebApp.Infrastructure.Extensions;
 
 public static class LocalStorageExtension
 {
