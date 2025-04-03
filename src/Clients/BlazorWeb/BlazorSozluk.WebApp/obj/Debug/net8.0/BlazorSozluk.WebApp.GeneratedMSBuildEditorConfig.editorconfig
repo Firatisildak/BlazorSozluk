@@ -40,6 +40,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpblBhZ2VzXEVudHJpZXNDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/UserPages/Components/UserProfileDetailComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclBhZ2VzXENvbXBvbmVudHNcVXNlclByb2ZpbGVEZXRhaWxDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/UserPages/MyProfilePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclBhZ2VzXE15UHJvZmlsZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/UserPages/UserLoginPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclBhZ2VzXFVzZXJMb2dpblBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/UserPages/UserLogoutPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclBhZ2VzXFVzZXJMb2dvdXRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
