@@ -10,6 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace BlazorSozluk.Api.WebApi.Controllers;
 [Route("api/[controller]")]
 [ApiController]
+
 public class UserController : BaseController
 {
     private readonly IMediator mediator;
