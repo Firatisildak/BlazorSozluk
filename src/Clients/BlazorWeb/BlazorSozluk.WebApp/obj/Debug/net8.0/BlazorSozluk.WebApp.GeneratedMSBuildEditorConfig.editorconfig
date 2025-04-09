@@ -28,12 +28,48 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Components/PaginationComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xQYWdpbmF0aW9uQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Entry/Components/EntryFooterAuthorComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW50cnlcQ29tcG9uZW50c1xFbnRyeUZvb3RlckF1dGhvckNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Entry/Components/RateComponents/EntryFooterFavoriteComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW50cnlcQ29tcG9uZW50c1xSYXRlQ29tcG9uZW50c1xFbnRyeUZvb3RlckZhdm9yaXRlQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Entry/Components/RateComponents/EntryFooterRateFavoriteComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW50cnlcQ29tcG9uZW50c1xSYXRlQ29tcG9uZW50c1xFbnRyeUZvb3RlclJhdGVGYXZvcml0ZUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Entry/CreateEntryPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW50cnlcQ3JlYXRlRW50cnlQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Entry/EntryDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW50cnlcRW50cnlEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Entry/EntryViewerComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW50cnlcRW50cnlWaWV3ZXJDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Entry/MainPageEntryListComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW50cnlcTWFpblBhZ2VFbnRyeUxpc3RDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/MainPages/EntriesComponent.razor]
@@ -58,6 +94,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Geotek/source/repos/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/_Imports.razor]
