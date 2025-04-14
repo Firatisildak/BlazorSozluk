@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorSozluk.WebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7da284863f929e8d92a699daf8078c9808251778")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c6b1ab9d008eb80d4c519ba1f5fbe9823a4477e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorSozluk.WebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorSozluk.WebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
