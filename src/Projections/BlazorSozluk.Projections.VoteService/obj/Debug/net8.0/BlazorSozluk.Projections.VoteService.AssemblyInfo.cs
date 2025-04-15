@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorSozluk.Projections.VoteService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+662e56236ef90ce039b3a0aa7945977d8bc742ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5aaf89a50d9d820352ffc86debbaf063b42ae07")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorSozluk.Projections.VoteService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorSozluk.Projections.VoteService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

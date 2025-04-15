@@ -1,7 +1,14 @@
 using BlazorSozluk.Projections.User;
+using BlazorSozluk.Projections.UserService.Services;
 
-var builder = Host.CreateApplicationBuilder(args);
-builder.Services.AddHostedService<Worker>();
+IHost host = Host.CreateDefaultBuilder(args)
+    .ConfigureServices(services =>
+    {
+        services.AddHostedService<Worker>();
 
-var host = builder.Build();
-host.Run();
+        services.AddTransient<UserService>();
+        services.AddTransient<EmailService>();
+    })
+    .Build();
+
+await host.RunAsync();

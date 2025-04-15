@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "To42xcthTOsau7x/Hy7+u574/D6FX/hlxy/3RYFqoFs=",
+  "Hash": "5ERTu5Cu1Awd18hFLAyl9YdU5j9llEDsmUaTaOVsYu4=",
   "Source": "BlazorSozluk.WebApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "dbn5jemodg",
-      "Integrity": "SVBOQy9KEAQqqGQAR3z0WcungysNMhKOHBNLEvxFm9M=",
+      "Fingerprint": "0cj04cpfiu",
+      "Integrity": "4OUea9TH/81XGQ7Al9Q0eX6ATwy6C2Fj41MTxk0uHfw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "rnchvyaie9",
-      "Integrity": "qT7W5pSAkAHP8MAVTViWnqvcLYYrrD61nWfM8/QsaX0=",
+      "Fingerprint": "8usmo3x9mn",
+      "Integrity": "gI9as1CTs2YEuL8lMta8hPeZZqsyFt/XqiACgfCo6HA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\BlazorSozluk.WebApp.pdb"
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "su3p5xs6f7",
-      "Integrity": "xGg3GtWJYywqNPK+VbmYPcd9fYaGixWYUwgiVpae/Yw=",
+      "Fingerprint": "p2vrv9abpz",
+      "Integrity": "EXm205uabzM0qgDrQPRYtiRdbZ5bzx9+y0NR7fzTFPo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\webcil\\BlazorSozluk.WebApp.wasm"
@@ -5960,7 +5960,7 @@
       "OriginalItemSpec": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encoding.Extensions.wasm"
     },
     {
-      "Identity": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\8wxhzo7lmo-dbn5jemodg.gz",
+      "Identity": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\8wxhzo7lmo-0cj04cpfiu.gz",
       "SourceId": "BlazorSozluk.WebApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\",
@@ -5974,8 +5974,8 @@
       "RelatedAsset": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8pbvvll69y",
-      "Integrity": "BPCcnRjraJrUHDuEKB2MQrgrwXDI2+QIMNCiTLs50PI=",
+      "Fingerprint": "giw3k1af00",
+      "Integrity": "qKDVFPnNmSjr65dmuBXEEAinfnNZiMOVYHu3o/TxnXQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -7115,7 +7115,7 @@
       "OriginalItemSpec": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.wasm"
     },
     {
-      "Identity": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\ft04ghe42s-rnchvyaie9.gz",
+      "Identity": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\ft04ghe42s-8usmo3x9mn.gz",
       "SourceId": "BlazorSozluk.WebApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\",
@@ -7129,8 +7129,8 @@
       "RelatedAsset": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BlazorSozluk.WebApp.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "buavnbmyyu",
-      "Integrity": "o6sSamau5kcUnZJd3bEd6TRPB0pxFa0iMxUU/QiMlw4=",
+      "Fingerprint": "homgj5ghoi",
+      "Integrity": "L8JUPpWLH8nW4j/F3H5z3d/X08KrktYBx0jzyOmxHQE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BlazorSozluk.WebApp.pdb"
@@ -9026,7 +9026,7 @@
       "OriginalItemSpec": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
     },
     {
-      "Identity": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\ue7zb92zi6-su3p5xs6f7.gz",
+      "Identity": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\ue7zb92zi6-p2vrv9abpz.gz",
       "SourceId": "BlazorSozluk.WebApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\",
@@ -9040,8 +9040,8 @@
       "RelatedAsset": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BlazorSozluk.WebApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qusx1187z7",
-      "Integrity": "rmo4qyjh2imr/R+RV4aOuviYqROj3vanjXyNneweQrg=",
+      "Fingerprint": "wlpac3v916",
+      "Integrity": "JEgnca7J7LhRhq7f451gZIWD1l2B7MyzQ3mnk4XGzu4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BlazorSozluk.WebApp.wasm"
@@ -9760,7 +9760,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SVBOQy9KEAQqqGQAR3z0WcungysNMhKOHBNLEvxFm9M=\""
+          "Value": "\"4OUea9TH/81XGQ7Al9Q0eX6ATwy6C2Fj41MTxk0uHfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 13:55:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4OUea9TH/81XGQ7Al9Q0eX6ATwy6C2Fj41MTxk0uHfw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\8wxhzo7lmo-0cj04cpfiu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000102030405"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9800"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qKDVFPnNmSjr65dmuBXEEAinfnNZiMOVYHu3o/TxnXQ=\""
         },
         {
           "Name": "Last-Modified",
@@ -9769,45 +9808,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SVBOQy9KEAQqqGQAR3z0WcungysNMhKOHBNLEvxFm9M="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\8wxhzo7lmo-dbn5jemodg.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000102051230"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9798"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BPCcnRjraJrUHDuEKB2MQrgrwXDI2+QIMNCiTLs50PI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 08:04:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9823,19 +9823,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SVBOQy9KEAQqqGQAR3z0WcungysNMhKOHBNLEvxFm9M=\""
+          "Value": "W/\"4OUea9TH/81XGQ7Al9Q0eX6ATwy6C2Fj41MTxk0uHfw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SVBOQy9KEAQqqGQAR3z0WcungysNMhKOHBNLEvxFm9M="
+          "Value": "sha256-4OUea9TH/81XGQ7Al9Q0eX6ATwy6C2Fj41MTxk0uHfw="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\8wxhzo7lmo-dbn5jemodg.gz",
+      "AssetFile": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\8wxhzo7lmo-0cj04cpfiu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9844,7 +9844,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9798"
+          "Value": "9800"
         },
         {
           "Name": "Content-Type",
@@ -9852,11 +9852,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BPCcnRjraJrUHDuEKB2MQrgrwXDI2+QIMNCiTLs50PI=\""
+          "Value": "\"qKDVFPnNmSjr65dmuBXEEAinfnNZiMOVYHu3o/TxnXQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 08:04:30 GMT"
+          "Value": "Mon, 14 Apr 2025 12:52:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9874,7 +9874,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BPCcnRjraJrUHDuEKB2MQrgrwXDI2+QIMNCiTLs50PI="
+          "Value": "sha256-qKDVFPnNmSjr65dmuBXEEAinfnNZiMOVYHu3o/TxnXQ="
         }
       ]
     },
@@ -10437,7 +10437,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "86248"
+          "Value": "86240"
         },
         {
           "Name": "Content-Type",
@@ -10445,11 +10445,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qT7W5pSAkAHP8MAVTViWnqvcLYYrrD61nWfM8/QsaX0=\""
+          "Value": "\"gI9as1CTs2YEuL8lMta8hPeZZqsyFt/XqiACgfCo6HA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 12:52:03 GMT"
+          "Value": "Tue, 15 Apr 2025 13:55:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10459,13 +10459,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qT7W5pSAkAHP8MAVTViWnqvcLYYrrD61nWfM8/QsaX0="
+          "Value": "sha256-gI9as1CTs2YEuL8lMta8hPeZZqsyFt/XqiACgfCo6HA="
         }
       ]
     },
     {
       "Route": "_framework/BlazorSozluk.WebApp.pdb",
-      "AssetFile": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\ft04ghe42s-rnchvyaie9.gz",
+      "AssetFile": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\ft04ghe42s-8usmo3x9mn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10484,11 +10484,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"o6sSamau5kcUnZJd3bEd6TRPB0pxFa0iMxUU/QiMlw4=\""
+          "Value": "\"L8JUPpWLH8nW4j/F3H5z3d/X08KrktYBx0jzyOmxHQE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 08:04:29 GMT"
+          "Value": "Mon, 14 Apr 2025 12:52:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10508,19 +10508,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qT7W5pSAkAHP8MAVTViWnqvcLYYrrD61nWfM8/QsaX0=\""
+          "Value": "W/\"gI9as1CTs2YEuL8lMta8hPeZZqsyFt/XqiACgfCo6HA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qT7W5pSAkAHP8MAVTViWnqvcLYYrrD61nWfM8/QsaX0="
+          "Value": "sha256-gI9as1CTs2YEuL8lMta8hPeZZqsyFt/XqiACgfCo6HA="
         }
       ]
     },
     {
       "Route": "_framework/BlazorSozluk.WebApp.pdb.gz",
-      "AssetFile": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\ft04ghe42s-rnchvyaie9.gz",
+      "AssetFile": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\ft04ghe42s-8usmo3x9mn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10537,11 +10537,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"o6sSamau5kcUnZJd3bEd6TRPB0pxFa0iMxUU/QiMlw4=\""
+          "Value": "\"L8JUPpWLH8nW4j/F3H5z3d/X08KrktYBx0jzyOmxHQE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 08:04:29 GMT"
+          "Value": "Mon, 14 Apr 2025 12:52:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10559,7 +10559,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-o6sSamau5kcUnZJd3bEd6TRPB0pxFa0iMxUU/QiMlw4="
+          "Value": "sha256-L8JUPpWLH8nW4j/F3H5z3d/X08KrktYBx0jzyOmxHQE="
         }
       ]
     },
@@ -10582,11 +10582,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xGg3GtWJYywqNPK+VbmYPcd9fYaGixWYUwgiVpae/Yw=\""
+          "Value": "\"EXm205uabzM0qgDrQPRYtiRdbZ5bzx9+y0NR7fzTFPo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 12:52:03 GMT"
+          "Value": "Tue, 15 Apr 2025 13:55:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10596,13 +10596,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xGg3GtWJYywqNPK+VbmYPcd9fYaGixWYUwgiVpae/Yw="
+          "Value": "sha256-EXm205uabzM0qgDrQPRYtiRdbZ5bzx9+y0NR7fzTFPo="
         }
       ]
     },
     {
       "Route": "_framework/BlazorSozluk.WebApp.wasm",
-      "AssetFile": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\ue7zb92zi6-su3p5xs6f7.gz",
+      "AssetFile": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\ue7zb92zi6-p2vrv9abpz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10621,11 +10621,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rmo4qyjh2imr/R+RV4aOuviYqROj3vanjXyNneweQrg=\""
+          "Value": "\"JEgnca7J7LhRhq7f451gZIWD1l2B7MyzQ3mnk4XGzu4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 08:04:29 GMT"
+          "Value": "Mon, 14 Apr 2025 12:52:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10645,19 +10645,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xGg3GtWJYywqNPK+VbmYPcd9fYaGixWYUwgiVpae/Yw=\""
+          "Value": "W/\"EXm205uabzM0qgDrQPRYtiRdbZ5bzx9+y0NR7fzTFPo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xGg3GtWJYywqNPK+VbmYPcd9fYaGixWYUwgiVpae/Yw="
+          "Value": "sha256-EXm205uabzM0qgDrQPRYtiRdbZ5bzx9+y0NR7fzTFPo="
         }
       ]
     },
     {
       "Route": "_framework/BlazorSozluk.WebApp.wasm.gz",
-      "AssetFile": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\ue7zb92zi6-su3p5xs6f7.gz",
+      "AssetFile": "C:\\Users\\Geotek\\source\\repos\\BlazorSozluk\\src\\Clients\\BlazorWeb\\BlazorSozluk.WebApp\\obj\\Debug\\net8.0\\compressed\\ue7zb92zi6-p2vrv9abpz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10674,11 +10674,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rmo4qyjh2imr/R+RV4aOuviYqROj3vanjXyNneweQrg=\""
+          "Value": "\"JEgnca7J7LhRhq7f451gZIWD1l2B7MyzQ3mnk4XGzu4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 08:04:29 GMT"
+          "Value": "Mon, 14 Apr 2025 12:52:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10696,7 +10696,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rmo4qyjh2imr/R+RV4aOuviYqROj3vanjXyNneweQrg="
+          "Value": "sha256-JEgnca7J7LhRhq7f451gZIWD1l2B7MyzQ3mnk4XGzu4="
         }
       ]
     },

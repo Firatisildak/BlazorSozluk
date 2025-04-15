@@ -1144,6 +1144,6 @@ C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Web
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\refint\BlazorSozluk.WebApp.dll
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\BlazorSozluk.WebApp.pdb
 C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\ref\BlazorSozluk.WebApp.dll
-C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\ue7zb92zi6-su3p5xs6f7.gz
-C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\ft04ghe42s-rnchvyaie9.gz
-C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\8wxhzo7lmo-dbn5jemodg.gz
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\ue7zb92zi6-p2vrv9abpz.gz
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\ft04ghe42s-8usmo3x9mn.gz
+C:\Users\Geotek\source\repos\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\obj\Debug\net8.0\compressed\8wxhzo7lmo-0cj04cpfiu.gz

@@ -1,7 +1,11 @@
 using BlazorSozluk.Projections.VoteService;
 
-var builder = Host.CreateApplicationBuilder(args);
-builder.Services.AddHostedService<Worker>();
+IHost host = Host.CreateDefaultBuilder(args)
+    .ConfigureServices(services =>
+    {
+        services.AddHostedService<Worker>();
+    })
+    .Build();
 
-var host = builder.Build();
-host.Run();
+await host.RunAsync();
+
